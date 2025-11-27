@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://voiceai.theclevermarketing.com/"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "mailto:doru.mircea@doctrina.biz"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://voiceai.theclevermarketing.com/"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -335,7 +335,7 @@
     "linkedin": "https://www.linkedin.com/company/autocalls-ai"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://voiceai.theclevermarketing.com/api/",
     "auth": {
       "method": "bearer"
     }
