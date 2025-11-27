@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Clever Marketing Voice AI",
   "logo": {
-    "dark": "/resources/logo/dark.png",
-    "light": "/resources/logo/light.png"
+    "dark": "/resources/logo/clever_marketing_dark.png",
+    "light": "/resources/logo/clever_marketing_light.webp"
   },
   "favicon": "/favicon.png",
   "colors": {
@@ -57,7 +57,7 @@
   "navigation": [{
       "group": "Introduction",
       "pages": [
-        "introduction/what-is-autocalls",
+        "introduction/what-is-clever-voice-ai",
         "introduction/how-it-works",
         "introduction/key-terminology"
       ]
