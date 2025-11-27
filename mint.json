@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Autocalls",
+  "name": "Clever Marketing Voice AI",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://voiceai.theclevermarketing.com/"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "mailto:doru.mircea@doctrina.biz"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://voiceai.theclevermarketing.com/"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -332,7 +332,7 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
+    "linkedin": "https://www.linkedin.com/in/dorumircea/"
   },
   "api": {
     "baseUrl": "https://app.autocalls.ai/api/",
